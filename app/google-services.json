@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738019276480",
+    "firebase_url": "https://lens-gallery-38c73.firebaseio.com",
+    "project_id": "lens-gallery-38c73",
+    "storage_bucket": "lens-gallery-38c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738019276480:android:bded38c9700420ff471f25",
+        "android_client_info": {
+          "package_name": "com.alirnp.lensgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738019276480-qmcu1e48t5ghm2ca54ijl5gvu3hv282g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlvIaXCvKo-hx5VSvv6e3DgTQImVjGcdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738019276480-qmcu1e48t5ghm2ca54ijl5gvu3hv282g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
